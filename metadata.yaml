@@ -1,5 +1,8 @@
 _repo: Levres-closes_64119
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64119-h/images/cover.jpg
 creator:
   author:
     agent_name: Lesueur, Daniel
@@ -12,6 +15,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Jeanne_Lapauze
     - https://en.wikipedia.org/wiki/Jeanne_Lapauze
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64119#Levres-closes
 gutenberg_issued: '2020-12-23'
 gutenberg_type: Text
 identifiers:
