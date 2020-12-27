@@ -1,0 +1,26 @@
+_repo: Levres-closes_64119
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lesueur, Daniel
+    alias: Lapauze, Jeanne Loiseau, Mme.
+    birthdate: 1860
+    deathdate: 1921
+    gutenberg_agent_id: '42911'
+    url: http://www.gutenberg.org/2009/agents/42911
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Jeanne_Lapauze
+    - https://en.wikipedia.org/wiki/Jeanne_Lapauze
+description: ''
+gutenberg_issued: '2020-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64119'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Lèvres closes
+url: http://www.gutenberg.org/ebooks/64119
